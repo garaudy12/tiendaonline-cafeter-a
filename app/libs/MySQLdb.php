@@ -3,7 +3,7 @@
  * Manejo de la base de datos MySQL
  */
 class MySQLdb{
-  private $host = "localhost:3307";
+  private $host = "localhost:8080";
   private $usuario = "root";
   private $clave = ""; //XAMPP la clave es vacía, y en MAMP es "root"
   private $db = "bdcafetienda";
